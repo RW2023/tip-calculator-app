@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](.\images\calculator-app.png)
+![](\images\calculator-app.png)
 
 
 
