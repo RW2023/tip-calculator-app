@@ -84,8 +84,6 @@ This project helped my practice my CSS especially. I continue to learn and impro
 - Frontend Mentor - [@RW2023](https://www.frontendmentor.io/profile/RW2023)
 - Instagram - [@ryanwilsonimages](https://www.instagram.com/ryanwilsonimages/)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 ## Acknowledgments
 
 Special thanks to my Discord community Front End Collab for all their help and support. 
