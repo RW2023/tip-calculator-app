@@ -15,7 +15,7 @@ function calculate() {
   const numPeople = Number(numPeopleInput.value);
 
   if (isNaN(billTotal) || isNaN(numPeople) || billTotal <= 0 || numPeople <= 0) {
-    alert('Please enter valid numbers for Bill Total and Number of People.');
+    alert('Please enter valid numbers for Bill Total and Number of People! Common!');
     return;
   }
 
